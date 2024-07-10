@@ -45,5 +45,9 @@ public class EvaluacionEnsayo implements EvaluacionTipoDos {
         return promedioEnsayo;
 
     }
+    /*
+    se debe utilizar los metodos de la interfaz, ya que se esta implementando
+    esa interfaz en el encabezado
+    */
     
 }
